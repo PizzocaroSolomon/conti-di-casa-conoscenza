@@ -1,0 +1,1467 @@
+{
+  "formato": 1,
+  "versione": "2026-10-03.2",
+  "creatoIl": "2026-10-03",
+  "valori": {
+    "festivita": {
+      "valore": {
+        "fisse": [
+          {
+            "giorno": "01-01",
+            "dal": 1949
+          },
+          {
+            "giorno": "01-06",
+            "dal": 1985
+          },
+          {
+            "giorno": "04-25",
+            "dal": 1949
+          },
+          {
+            "giorno": "05-01",
+            "dal": 1949
+          },
+          {
+            "giorno": "06-02",
+            "dal": 2001
+          },
+          {
+            "giorno": "08-15",
+            "dal": 1949
+          },
+          {
+            "giorno": "10-04",
+            "dal": 2026
+          },
+          {
+            "giorno": "11-01",
+            "dal": 1949
+          },
+          {
+            "giorno": "12-08",
+            "dal": 1949
+          },
+          {
+            "giorno": "12-25",
+            "dal": 1949
+          },
+          {
+            "giorno": "12-26",
+            "dal": 1949
+          }
+        ],
+        "pasquaEPasquetta": true
+      },
+      "fonte": {
+        "riferimento": "L. 27/05/1949 n. 260 e succ. mod. (L. 54/1977, DPR 792/1985 per il 6 gennaio, L. 336/2000 per il 2 giugno); L. 08/10/2025 n. 151 per il 4 ottobre dal 2026",
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-27;260",
+        "verificatoIl": "2026-10-02"
+      }
+    },
+    "bollo": {
+      "valore": {
+        "fino100": [
+          300,
+          290,
+          280,
+          270,
+          258,
+          258,
+          258
+        ],
+        "oltre100": [
+          450,
+          435,
+          420,
+          405,
+          387,
+          387,
+          387
+        ],
+        "sogliaKw": 100,
+        "minimo": 2000,
+        "bifuel": 258,
+        "annoVerificato": 2026
+      },
+      "fonte": {
+        "riferimento": "Regione Lombardia, Tariffario tasse automobilistiche dal 1° gennaio 2026 (L.R. 10/2003); tariffe statali tab. 2 L. 296/2006",
+        "url": "https://www.regione.lombardia.it/content/dam/rl/canali-tematici-servizi/02-bollo-auto-e-tributi-regionali/01-tassa-automobilistica---bollo-auto/red-la-tassa-automobilistica/allegati/Tariffario%202026_aggiornato%20gennaio%202026.pdf",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "esenzioneBollo2027": {
+      "valore": {
+        "anno": 2027,
+        "kwMassimi": 80
+      },
+      "fonte": {
+        "riferimento": "D.L. 17/09/2026 n. 162, art. 2 (in attesa di conversione in legge entro il 16/11/2026)",
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "superbollo": {
+      "valore": {
+        "sogliaKw": 185,
+        "perKw": 2000,
+        "coefficienti": [
+          {
+            "daAnni": 0,
+            "coefficiente": 1
+          },
+          {
+            "daAnni": 5,
+            "coefficiente": 0.6
+          },
+          {
+            "daAnni": 10,
+            "coefficiente": 0.3
+          },
+          {
+            "daAnni": 15,
+            "coefficiente": 0.15
+          }
+        ],
+        "esenteDaAnni": 20
+      },
+      "fonte": {
+        "riferimento": "Art. 23 c. 21 D.L. 98/2011; art. 16 c. 15-ter D.L. 201/2011",
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98~art23",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "revisione": {
+      "valore": {
+        "costo": 7902,
+        "primaDopoMesi": 48,
+        "ogniMesi": 24
+      },
+      "fonte": {
+        "riferimento": "Art. 80 Codice della strada; tariffa 54,95 € (D.M. 161/2007 art. 2, mod. D.M. 129/2021) + IVA 22% + diritti 10,20 € + versamento",
+        "url": "https://www.mit.gov.it/revisione-periodica-veicoli",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "prezziCarburante": {
+      "valore": {
+        "benzina": 2001,
+        "gasolio": 2100,
+        "gpl": 767,
+        "metano": 1631,
+        "periodo": "agosto 2026"
+      },
+      "fonte": {
+        "riferimento": "MASE, prezzi medi mensili nazionali dei carburanti (media di agosto 2026)",
+        "url": "https://sisen.mase.gov.it/dgsaie/prezzi-settimanali-carburanti",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "premioMedioRc": {
+      "valore": {
+        "lombardia": 39690,
+        "italia": 42200
+      },
+      "fonte": {
+        "riferimento": "IVASS, IPER II trimestre 2026 (Comunicazione statistica n. 7/2026)",
+        "url": "https://www.ivass.it/pubblicazioni-e-statistiche/statistiche/rilevazioni-mensili-iper/2026/ii-trim-2026/index.html",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "imu": {
+      "valore": {
+        "rivalutazione": 1.05,
+        "moltiplicatori": {
+          "A": 160,
+          "A/10": 80,
+          "B": 140,
+          "C/1": 55,
+          "C/2": 160,
+          "C/6": 160,
+          "C/7": 160,
+          "C": 140,
+          "D": 65,
+          "D/5": 80
+        },
+        "aliquotaBase": 0.86,
+        "categorieLusso": [
+          "A/1",
+          "A/8",
+          "A/9"
+        ],
+        "aliquotaLusso": 0.5,
+        "detrazioneLusso": 20000,
+        "scadenze": [
+          "06-16",
+          "12-16"
+        ]
+      },
+      "fonte": {
+        "riferimento": "L. 27/12/2019 n. 160, art. 1 commi 738–783 (esenzione abitazione principale c. 740, base imponibile e moltiplicatori c. 745, abitazione di lusso c. 748–749, aliquota base c. 754, scadenze c. 762)",
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "mutuo": {
+      "valore": {
+        "metodo": "ammortamento alla francese: rata costante = C·i / (1 − (1+i)^−n), i = tasso annuo / 12"
+      },
+      "fonte": {
+        "riferimento": "Banca d'Italia, guida \"Il mutuo ipotecario in parole semplici\"",
+        "url": "https://www.bancaditalia.it/pubblicazioni/guide-bi/guida-mutuo/Le-guide-della-Banca-d-Italia_Comprare-una-casa_Il-mutuo-ipotecario-in-parole-semplici.pdf",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "detrazioneMutuo": {
+      "valore": {
+        "aliquota": 19,
+        "limite": 400000
+      },
+      "fonte": {
+        "riferimento": "TUIR art. 15 c. 1 lett. b); Agenzia delle Entrate, \"Tutte le agevolazioni della dichiarazione 2026 — Interessi passivi per mutui\"",
+        "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10186910/Interessi_passivi_per_mutui.pdf/b4f0b550-6579-9447-0c71-9db16ed05cc4",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "acquisto": {
+      "valore": {
+        "registroPrimaCasa": 2,
+        "registroAltraCasa": 9,
+        "registroMinimo": 100000,
+        "ipotecariaCatastaleDaPrivato": 5000,
+        "rivalutazione": 1.05,
+        "coefficientePrimaCasa": 110,
+        "coefficienteAltraCasa": 120,
+        "ivaPrimaCasa": 4,
+        "ivaAltraCasa": 10,
+        "ivaLusso": 22,
+        "impostaFissaConIva": 20000,
+        "categorieLusso": [
+          "A/1",
+          "A/8",
+          "A/9"
+        ],
+        "sostitutivaMutuoPrimaCasa": 0.25,
+        "sostitutivaMutuoAltraCasa": 2,
+        "limiteAgenzia": 100000
+      },
+      "fonte": {
+        "riferimento": "Agenzia delle Entrate, guida \"L'acquisto della casa: le imposte e le agevolazioni fiscali\" (ottobre 2025); D.P.R. 131/1986 Tariffa I art. 1 e Nota II-bis; D.P.R. 633/1972 Tabella A; D.Lgs. 347/1990; D.P.R. 601/1973 art. 18; TUIR art. 15 c. 1 lett. b-bis",
+        "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/guida_acquisto_casa_le_imposte_e_le_agevolazioni",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "inarcassa": {
+      "valore": {
+        "soggettivo": 14.5,
+        "soggettivoGiovani": 7.25,
+        "integrativo": 4,
+        "minimoSoggettivo": 278500,
+        "minimoIntegrativo": 85000,
+        "maternita": 6550,
+        "maternitaPrimaRata": 4550,
+        "massimale": 14730000,
+        "riduzioneMinimiGiovani": 3,
+        "sogliaGiovani": 4630600,
+        "anniGiovani": 5,
+        "etaMassimaGiovani": 35,
+        "scadenzeMinimi": [
+          "06-30",
+          "09-30"
+        ],
+        "scadenzaConguaglio": "12-31",
+        "anno": 2026
+      },
+      "fonte": {
+        "riferimento": "Inarcassa, Regolamento Generale Previdenza (artt. 4, 5, 6, 8 e Tab. A, B, C aggiornate al 2026); pagine \"Contributi per gli iscritti\", \"Le scadenze per gli iscritti\", \"Contributi ridotti per i giovani iscritti\"; soglia giovani: valore 2025 (2026 non pubblicato)",
+        "url": "https://www.inarcassa.it/articoli/contributi-gli-iscritti",
+        "verificatoIl": "2026-10-02"
+      }
+    },
+    "assegnoUnico": {
+      "valore": {
+        "anno": 2026,
+        "iseeMassimo": 1746851,
+        "iseeMinimo": 4658271,
+        "minorenne": [
+          20380,
+          5830
+        ],
+        "maggiorenne": [
+          9910,
+          2910
+        ],
+        "oltreIlSecondo": [
+          9910,
+          1740
+        ],
+        "entrambiLavorano": [
+          3490,
+          0
+        ],
+        "disabilita": {
+          "media": 9910,
+          "grave": 11060,
+          "non_autosufficiente": 12230
+        },
+        "piccoli": 50,
+        "nucleoNumeroso": 15000,
+        "giorniNuovoNato": 120
+      },
+      "fonte": {
+        "riferimento": "INPS, circolare n. 7 del 30/01/2026 e Allegato 1 (importi 2026); D.Lgs. 230/2021",
+        "url": "https://www.inps.it/content/dam/inps-site/it/scorporati/circolari-e-messaggi/2026/01/Circolare_15152/Allegati/16549_Circolare-numero-7-del-30-01-2026_Allegato-n-1.pdf",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "bonus": {
+      "valore": {
+        "nuoviNati": 100000,
+        "nuoviNatiIsee": 4000000,
+        "nuoviNatiGiorni": 120,
+        "annoNidoNuovo": 2024,
+        "nidoNuovo": [
+          {
+            "finoA": 4000000,
+            "importo": 360000
+          }
+        ],
+        "nidoVecchio": [
+          {
+            "finoA": 2500099,
+            "importo": 300000
+          },
+          {
+            "finoA": 4000000,
+            "importo": 250000
+          }
+        ],
+        "nidoMinimo": 150000
+      },
+      "fonte": {
+        "riferimento": "INPS, circolare n. 29 del 27/03/2026 (bonus asilo nido) e n. 45 del 10/04/2026 (bonus nuovi nati); L. 207/2024 art. 1 c. 206",
+        "url": "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.bonus-nuovi-nati.html",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "detrazioniFigli": {
+      "valore": {
+        "aliquota": 19,
+        "nido": 63200,
+        "scuola": 100000,
+        "sport": 21000,
+        "figlioACarico": 95000,
+        "redditoACaricoFino24": 400000,
+        "redditoACaricoDa25": 284051
+      },
+      "fonte": {
+        "riferimento": "Agenzia delle Entrate, istruzioni modello 730/2026 (righi E8–E10, codici 12, 13, 16, 33; familiari a carico); TUIR art. 12 e art. 15 c. 1 lett. e, e-bis, i-quinquies",
+        "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10186910/Spese_istruzione.pdf/651954f7-f35e-762d-fe51-a747467bbdb5",
+        "verificatoIl": "2026-10-03"
+      }
+    },
+    "energia": {
+      "valore": {
+        "anno": 2026,
+        "spesaAnnuaLuceTipo": 66538,
+        "consumoLuceTipo": 2000,
+        "bonusIsee": 979600,
+        "bonusIseeNumerose": 2000000,
+        "bonusFigliNumerose": 4,
+        "bonusLuce": [
+          {
+            "finoA": 2,
+            "importo": 14600
+          },
+          {
+            "finoA": 4,
+            "importo": 18615
+          },
+          {
+            "finoA": 99,
+            "importo": 20440
+          }
+        ]
+      },
+      "fonte": {
+        "riferimento": "ARERA, comunicato del 29/09/2026 (maggior tutela clienti vulnerabili, spesa annua 2026); delibera 2/2026/R/com e pagine ARERA sul bonus sociale per disagio economico",
+        "url": "https://www.arera.it/comunicati-stampa/dettaglio/elettricita-maggior-tutela-373-nel-iv-trimestre-2026-per-i-clienti-vulnerabili",
+        "verificatoIl": "2026-10-03"
+      }
+    }
+  },
+  "fisco": {
+    "2025": {
+      "anno": 2025,
+      "previdenza": {
+        "tipo": "gestione-separata",
+        "aliquotaPiena": {
+          "valore": 0.2607,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 27 del 30/01/2025 — Gestione Separata 2025",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2025.01.gestione-separata-le-aliquote-contributive-per-il-2025.html",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "aliquotaRidotta": {
+          "valore": 0.24,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 27 del 30/01/2025 — Gestione Separata 2025",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2025.01.gestione-separata-le-aliquote-contributive-per-il-2025.html",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "massimale": {
+          "valore": 12060700,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 27 del 30/01/2025 — Gestione Separata 2025",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2025.01.gestione-separata-le-aliquote-contributive-per-il-2025.html",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "minimaleAccredito": {
+          "valore": 1855500,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 27 del 30/01/2025 — Gestione Separata 2025",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2025.01.gestione-separata-le-aliquote-contributive-per-il-2025.html",
+            "verificatoIl": "2026-08-22"
+          }
+        }
+      },
+      "previdenzaIvs": {
+        "minimale": {
+          "valore": 1855500,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "aliquotaBase": {
+          "valore": 0.24,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "aliquotaAggiuntivaCommercianti": {
+          "valore": 0.0048,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "maternitaAnnua": {
+          "valore": 744,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "fasciaPiuUno": {
+          "valore": 5544800,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "incrementoOltreFascia": {
+          "valore": 0.01,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "massimaleAnzianita1995": {
+          "valore": 9241300,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "massimalePost1995": {
+          "valore": 12060700,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 38 del 07/02/2025 — Artigiani e commercianti: contribuzione 2025 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "scadenzeRateFisse": {
+          "valore": [
+            "05-16",
+            "08-20",
+            "11-16",
+            "02-16"
+          ],
+          "fonte": {
+            "riferimento": "Circ. INPS 38/2025 §9: 16/05, 20/08, 17/11 (16/11 è domenica), 16/02/2026 — date base con slittamento sab/dom → lunedì",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.02.circolare-numero-38-del-07-02-2025_14820.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "causali": {
+          "valore": {
+            "fissiArtigiani": "AF",
+            "fissiCommercianti": "CF",
+            "eccedenzaArtigiani": "AP",
+            "eccedenzaCommercianti": "CP"
+          },
+          "fonte": {
+            "riferimento": "Tabella causali contributo INPS (AdE): AF/CF minimale, AP/CP extra minimale; conferma circ. INPS 87/2002",
+            "url": "https://www.agenziaentrate.gov.it/portale/web/guest/strumenti/codici-attivita-e-tributo/f24-codici-tributo-per-i-versamenti/tabelle-dei-codici-tributo-e-altri-codici-per-il-modello-f24/tabelle-codici-inps-e-enti-previdenziali-ed-assicurativi",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "quotaAccontiEccedenza": {
+          "valore": 1,
+          "fonte": {
+            "riferimento": "Regola strutturale, verificata sull’edizione 2026 delle istruzioni Redditi PF (Fascicolo 2, Appendice «INPS - Modalità di calcolo degli acconti», p.to 1, pag. 62): due acconti di pari importo, senza riduzioni; base = eccedenza del reddito dell’anno precedente ricalcolata coi parametri e le agevolazioni dell’anno corrente; scadenze IRPEF ex art. 18, c. 4, D.Lgs. 241/1997",
+            "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/pf2_istruzioni_2026_agg-13-05-2026",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "riduzioni": {
+          "valore": {
+            "riduzione35": {
+              "moltiplicatore": 0.65,
+              "riduceAliquotaAggiuntiva": true
+            },
+            "riduzione50": {
+              "moltiplicatore": 0.5,
+              "riduceAliquotaAggiuntiva": false
+            }
+          },
+          "fonte": {
+            "riferimento": "Riduzione 35%: L. 190/2014 art. 1 c. 77 (fissi+eccedenza, maternità piena; 0,48 inclusa per lettura letterale, da confermare). Riduzione 50% nuovi iscritti 2025: L. 207/2024 art. 1 c. 186 + circ. INPS 83 del 24/04/2025 §3 (maternità e 0,48 SEMPRE piene)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207",
+            "verificatoIl": "2026-08-23",
+            "daVerificare": true
+          }
+        }
+      },
+      "imposta": {
+        "startup": {
+          "valore": 0.05,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 64–65 (imposta sostitutiva 15%, 5% startup per 5 anni)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "ordinaria": {
+          "valore": 0.15,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 64–65 (imposta sostitutiva 15%, 5% startup per 5 anni)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "anniStartup": {
+          "valore": 5,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 64–65 (imposta sostitutiva 15%, 5% startup per 5 anni)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        }
+      },
+      "irpef": {
+        "scaglioni": {
+          "valore": [
+            {
+              "finoACents": 2800000,
+              "aliquota": 0.23
+            },
+            {
+              "finoACents": 5000000,
+              "aliquota": 0.35
+            },
+            {
+              "finoACents": null,
+              "aliquota": 0.43
+            }
+          ],
+          "fonte": {
+            "riferimento": "Art. 11, c. 1, TUIR vigente al 30/06/2025 (multivigente Normattiva): 23% fino a 28.000, 35% da 28.000 a 50.000, 43% oltre (a regime dal 2025: L. 207/2024, art. 1, c. 2, lett. a). Imposta a 50.000 = 14.140",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art11!vig=2025-06-30",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "detrazioneLavoroAutonomo": {
+          "valore": {
+            "bassa": {
+              "finoACents": 550000,
+              "importoCents": 126500
+            },
+            "media": {
+              "finoACents": 2800000,
+              "baseCents": 50000,
+              "extraCents": 76500,
+              "divisoreCents": 2250000
+            },
+            "alta": {
+              "finoACents": 5000000,
+              "baseCents": 50000,
+              "divisoreCents": 2200000
+            },
+            "bonus": {
+              "oltreCents": 1100000,
+              "finoACents": 1700000,
+              "importoCents": 5000
+            }
+          },
+          "fonte": {
+            "riferimento": "Art. 13, c. 5, 5-ter e 6, TUIR vigente (riscrittura L. 234/2021, invariata 2025/2026): 1.265 fino a 5.500; 500 + 765 × (28.000 − RC)/22.500 fino a 28.000; 500 × (50.000 − RC)/22.000 fino a 50.000; +50 tra 11.000 e 17.000; rapporti alle prime 4 cifre decimali (troncamento). RC al netto dell’abitazione principale: non modellata, l’app non ha redditi immobiliari",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art13!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "oneriDetraibili": {
+          "valore": {
+            "aliquota": 0.19,
+            "tetto": {
+              "daCents": 7500000,
+              "sogliaBase100kCents": 10000000,
+              "importoBaseCents": {
+                "fino100k": 1400000,
+                "oltre100k": 800000
+              },
+              "coefficientiFigli": {
+                "nessuno": 0.5,
+                "uno": 0.7,
+                "due": 0.85,
+                "oltreODisabilita": 1
+              }
+            },
+            "degressione": {
+              "daCents": 12000000,
+              "aCents": 24000000
+            },
+            "taglioAltiRedditi": null
+          },
+          "fonte": {
+            "riferimento": "Oneri 19% SOGGETTI ai meccanismi (sanitarie e interessi mutui ne sono fuori per legge, quindi fuori dall’input): tetto di spesa oltre 75.000 = 14.000/8.000 × coefficiente figli (art. 16-ter, c. 1-3, TUIR, dal 2025; circ. AdE 6/E/2025: è un cap sulle SPESE); degressione × (240.000 − RC)/120.000 tra 120.000 e 240.000 (art. 15, c. 3-bis). Il taglio −440 oltre 200.000 decorre dal 2026: assente nel 2025",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art16ter!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "addizionali": {
+          "valore": {
+            "regionaleBase": 0.0123,
+            "regionaleMax": 0.0333,
+            "comunaleMax": 0.009,
+            "minimoIrpefDovutaCents": 1000
+          },
+          "fonte": {
+            "riferimento": "Regionale: aliquota di base 1,23%, maggiorazione max 2,1 punti (D.Lgs. 68/2011, art. 6, c. 1); comunale: max 0,8 punti + 0,4 Roma Capitale (D.Lgs. 360/1998, art. 1, c. 3; DL 78/2010, art. 14, c. 14, lett. b). Dovute solo se l’IRPEF netta supera 10 € (AdE, Allegato C circ. di liquidazione 730/2026: «un importo maggiore di euro 10»). Regionale dal dataset ufficiale MEF per residenza (params/addizionali-regionali) o aliquota in input; comunale in input",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-05-06;68~art6!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        }
+      },
+      "dipendente": {
+        "detrazione": {
+          "valore": {
+            "bassa": {
+              "finoACents": 1500000,
+              "importoCents": 195500,
+              "minimoCents": 69000
+            },
+            "media": {
+              "finoACents": 2800000,
+              "baseCents": 191000,
+              "extraCents": 119000,
+              "divisoreCents": 1300000
+            },
+            "alta": {
+              "finoACents": 5000000,
+              "baseCents": 191000,
+              "divisoreCents": 2200000
+            },
+            "bonus": {
+              "oltreCents": 2500000,
+              "finoACents": 3500000,
+              "importoCents": 6500
+            }
+          },
+          "fonte": {
+            "riferimento": "Art. 13, c. 1 e 1.1, TUIR vigente (1.955 a regime dal 2025: L. 207/2024, art. 1, c. 2, lett. b): 1.955 fino a 15.000 (minimo 690, non rapportato); 1.910 + 1.190 × (28.000 − RC)/13.000 fino a 28.000; 1.910 × (50.000 − RC)/22.000 fino a 50.000; +65 tra 25.000 e 35.000 (per intero); rapporti alle prime 4 cifre decimali (c. 6). Confronto ad anno intero",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art13!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "sommaIntegrativa": {
+          "valore": {
+            "sogliaRedditoCents": 2000000,
+            "fasce": [
+              {
+                "finoACents": 850000,
+                "percentuale": 0.071
+              },
+              {
+                "finoACents": 1500000,
+                "percentuale": 0.053
+              },
+              {
+                "finoACents": null,
+                "percentuale": 0.048
+              }
+            ]
+          },
+          "fonte": {
+            "riferimento": "L. 207/2024, art. 1, c. 4-5 (strutturale dal 2025): somma che NON concorre al reddito, per reddito complessivo ≤ 20.000, pari al 7,1/5,3/4,8% del reddito di lavoro dipendente (fasce 8.500/15.000; percentuale individuata sul reddito annualizzato — qui anno intero); circ. AdE 4/E/2025, §1.1",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "ulterioreDetrazione": {
+          "valore": {
+            "oltreCents": 2000000,
+            "pienaFinoACents": 3200000,
+            "aCents": 4000000,
+            "importoCents": 100000
+          },
+          "fonte": {
+            "riferimento": "L. 207/2024, art. 1, c. 6: ulteriore detrazione di 1.000 € per RC 20.000-32.000, poi 1.000 × (40.000 − RC)/8.000 fino a 40.000 (precisione piena: nessuna regola di troncamento); spetta nei limiti della capienza dell’imposta lorda (circ. AdE 4/E/2025, p. 16)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "trattamentoIntegrativo": {
+          "valore": {
+            "importoCents": 120000,
+            "sogliaRedditoCents": 1500000,
+            "correttivoCents": 7500
+          },
+          "fonte": {
+            "riferimento": "DL 3/2020, art. 1 vigente (correttivo −75 da L. 207/2024, art. 1, c. 3): 1.200 € esenti se RC ≤ 15.000 e imposta lorda sui redditi di lavoro > detrazione art. 13, c. 1, − 75 €; la fascia 15.000-28.000 (legata a oneri ante-2022) NON è modellata, dichiarato",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-02-05;3~art1!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "contributi": {
+          "valore": {
+            "ivs": 0.0919,
+            "aliquotaAggiuntivaOltreFascia": 0.01,
+            "fisTotale": {
+              "finoA5": 0.005,
+              "oltre5": 0.008
+            },
+            "quotaFisLavoratore": {
+              "numeratore": 1,
+              "denominatore": 3
+            },
+            "cigsLavoratore": 0.003
+          },
+          "fonte": {
+            "riferimento": "IVS FPLD 9,19% a carico lavoratore (8,89 + 0,30 ex L. 296/2006, c. 769); +1% oltre la prima fascia pensionabile (DL 384/1992, art. 3-ter; la fascia è previdenzaIvs.fasciaPiuUno); massimale post-1995 sui soli contributi pensionistici = previdenza.massimale (L. 335/1995, c. 18, unico); FIS 0,50/0,80% con UN TERZO a carico lavoratore (D.Lgs. 148/2015, art. 29, c. 8; riparto 2/3-1/3 ex circ. INPS 176/2016 e 18/2022); CIGS 0,30% lavoratore sopra i 15 dipendenti, dal 2022 anche nel commercio (D.Lgs. 148/2015, artt. 20 e 23)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;148~art23!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "tfr": {
+          "valore": {
+            "frazione": {
+              "numeratore": 2,
+              "denominatore": 27
+            },
+            "contributoDetratto": 0.005
+          },
+          "fonte": {
+            "riferimento": "Art. 2120 c.c.: quota annua = retribuzione utile / 13,5 (= × 2/27); L. 297/1982, art. 3: 0,50% detratto dalla quota. Accantonamento lordo DIFFERITO, mai nel netto annuo: all’uscita tassazione separata (artt. 17 e 19 TUIR), rivalutazioni a sostitutiva 17% (D.Lgs. 47/2000, art. 11)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;297~art3!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "fondoPensione": {
+          "valore": {
+            "lavoratore": 0.0055,
+            "datore": 0.0155,
+            "plafondCents": 516457
+          },
+          "fonte": {
+            "riferimento": "CCNL Terziario Confcommercio, art. 107 (invariato dal rinnovo 22/03/2024): lavoratore min 0,55% e datore 1,55% della retribuzione utile TFR (qui ≈ RAL); deducibilità entro il plafond ex art. 8, c. 4, D.Lgs. 252/2005 — 5.164,57 € fino al 2025; il TFR conferito NON consuma il plafond",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252~art8!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        }
+      },
+      "acconti": {
+        "quotaImposta": {
+          "valore": 1,
+          "fonte": {
+            "riferimento": "Acconto imposta sostitutiva = 100% anno precedente (metodo storico, prassi AdE)",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "quotaContributi": {
+          "valore": 0.8,
+          "fonte": {
+            "riferimento": "Acconto Gestione Separata = 80%: istruzioni Redditi PF 2026, Fascicolo 2, Appendice «INPS - Modalità di calcolo degli acconti», p.to 2, pag. 62 (aliquote dell’anno corrente sull’80% del reddito dell’anno precedente, col massimale corrente); il motore usa l’80% del dovuto dell’anno prima: identico finché aliquota e massimale non cambiano gli importi (equivalenza in docs/regole-fiscali.md)",
+            "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/pf2_istruzioni_2026_agg-13-05-2026",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "ripartizione": {
+          "valore": [
+            0.5,
+            0.5
+          ],
+          "fonte": {
+            "riferimento": "art. 58 DL 124/2019 — due rate uguali per soggetti ISA e forfettari",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "minimoAcconto": {
+          "valore": 5165,
+          "fonte": {
+            "riferimento": "Nessun acconto se imposta anno precedente ≤ 51,65 € (regole acconti IRPEF estese alla sostitutiva)",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "sogliaRataUnica": {
+          "valore": 20600,
+          "fonte": {
+            "riferimento": "Due rate salvo che la prima non superi 103 € (istruzioni Redditi PF 2026, fasc. 1, regola generale degli acconti, rigo LC2); con la ripartizione 50/50 di ISA e forfettari (art. 58 DL 124/2019, ris. AdE 93/E del 12/11/2019) vuol dire acconto ≤ 206 €",
+            "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/pf1_istruzioni_2026_agg-28-05-2026",
+            "verificatoIl": "2026-10-02"
+          }
+        },
+        "soglieApplicabiliAContributi": {
+          "valore": false,
+          "fonte": {
+            "riferimento": "Applicabilità delle soglie minime agli acconti GS non confermata da fonte primaria: default prudente = non applicate",
+            "verificatoIl": "2026-08-22",
+            "daVerificare": true
+          }
+        },
+        "maggiorazioneDifferimento": {
+          "valore": 0.004,
+          "fonte": {
+            "riferimento": "Maggiorazione ordinaria 0,40% per il versamento differito (nel 2026 raddoppiata: vedi params 2026)",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "scadenze": {
+          "valore": {
+            "saldoEPrimaRata": "07-20",
+            "secondaRata": "11-30"
+          },
+          "fonte": {
+            "riferimento": "Saldo + 1ª rata al 20/7 (differimento strutturale ISA/forfettari); 2ª rata 30/11",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "codiciTributo": {
+          "valore": {
+            "primoAcconto": "1790",
+            "secondoAcconto": "1791",
+            "saldo": "1792"
+          },
+          "fonte": {
+            "riferimento": "Codici tributo AdE per l’imposta sostitutiva forfettari (1791 anche per l’unica soluzione)",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "causaliInps": {
+          "valore": {
+            "piena": "PXX",
+            "ridotta": "P10"
+          },
+          "fonte": {
+            "riferimento": "Causali contributo F24 Gestione Separata professionisti: PXX (aliquota piena), P10 (pensionati/altra copertura)",
+            "verificatoIl": "2026-08-22"
+          }
+        }
+      },
+      "soglie": {
+        "uscitaAnnoSuccessivo": {
+          "valore": 8500000,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 54 e 71 (soglie modificate dalla L. 197/2022)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "uscitaImmediata": {
+          "valore": 10000000,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 54 e 71 (soglie modificate dalla L. 197/2022)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "causaOstativaDipendente": {
+          "valore": 3500000,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 c. 57 lett. d-ter (redditi da lavoro dipendente e assimilati dell'anno precedente oltre 30.000 €); 35.000 € per il 2025: L. 207/2024, art. 1 c. 12",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-10-02"
+          }
+        }
+      },
+      "bollo": {
+        "soglia": {
+          "valore": 7747,
+          "fonte": {
+            "riferimento": "DPR 642/1972, tariffa art. 13",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "importo": {
+          "valore": 200,
+          "fonte": {
+            "riferimento": "DPR 642/1972, tariffa art. 13",
+            "verificatoIl": "2026-08-15"
+          }
+        }
+      }
+    },
+    "2026": {
+      "anno": 2026,
+      "previdenza": {
+        "tipo": "gestione-separata",
+        "aliquotaPiena": {
+          "valore": 0.2607,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 8 del 03/02/2026 — Gestione Separata 2026",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2026.02.gestione-separata-le-aliquote-contributive-per-il-2026.html",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "aliquotaRidotta": {
+          "valore": 0.24,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 8 del 03/02/2026 — Gestione Separata 2026",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2026.02.gestione-separata-le-aliquote-contributive-per-il-2026.html",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "massimale": {
+          "valore": 12229500,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 8 del 03/02/2026 — Gestione Separata 2026",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2026.02.gestione-separata-le-aliquote-contributive-per-il-2026.html",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "minimaleAccredito": {
+          "valore": 1880800,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 8 del 03/02/2026 — Gestione Separata 2026",
+            "url": "https://www.inps.it/it/it/inps-comunica/notizie/dettaglio-news-page.news.2026.02.gestione-separata-le-aliquote-contributive-per-il-2026.html",
+            "verificatoIl": "2026-08-22"
+          }
+        }
+      },
+      "previdenzaIvs": {
+        "minimale": {
+          "valore": 1880800,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "aliquotaBase": {
+          "valore": 0.24,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "aliquotaAggiuntivaCommercianti": {
+          "valore": 0.0048,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "maternitaAnnua": {
+          "valore": 744,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "fasciaPiuUno": {
+          "valore": 5622400,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "incrementoOltreFascia": {
+          "valore": 0.01,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "massimaleAnzianita1995": {
+          "valore": 9370700,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "massimalePost1995": {
+          "valore": 12229500,
+          "fonte": {
+            "riferimento": "Circolare INPS n. 14 del 09/02/2026 — Artigiani e commercianti: contribuzione 2026 (PDF verificato integralmente)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "scadenzeRateFisse": {
+          "valore": [
+            "05-16",
+            "08-20",
+            "11-16",
+            "02-16"
+          ],
+          "fonte": {
+            "riferimento": "Circ. INPS 14/2026 §9: 18/05 (16/5 è sabato), 20/08, 16/11, 16/02/2027 — date base con slittamento sab/dom → lunedì (art. 18 D.Lgs. 241/1997; 20/08 da proroga di Ferragosto)",
+            "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.02.circolare-numero-14-del-09-02-2026_15162.html",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "causali": {
+          "valore": {
+            "fissiArtigiani": "AF",
+            "fissiCommercianti": "CF",
+            "eccedenzaArtigiani": "AP",
+            "eccedenzaCommercianti": "CP"
+          },
+          "fonte": {
+            "riferimento": "Tabella causali contributo INPS (AdE, agg. 02/07/2026): AF/CF minimale, AP/CP extra minimale; conferma circ. INPS 87/2002",
+            "url": "https://www.agenziaentrate.gov.it/portale/web/guest/strumenti/codici-attivita-e-tributo/f24-codici-tributo-per-i-versamenti/tabelle-dei-codici-tributo-e-altri-codici-per-il-modello-f24/tabelle-codici-inps-e-enti-previdenziali-ed-assicurativi",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "quotaAccontiEccedenza": {
+          "valore": 1,
+          "fonte": {
+            "riferimento": "Istruzioni Redditi PF 2026, Fascicolo 2 (agg. 13/05/2026), Appendice «INPS - Modalità di calcolo degli acconti», p.to 1, pag. 62: due acconti di pari importo, senza riduzioni; base = eccedenza del reddito dell’anno precedente ricalcolata con minimale/massimale/aliquote/agevolazioni dell’anno corrente (ricalcolo in timeline); scadenze IRPEF ex art. 18, c. 4, D.Lgs. 241/1997",
+            "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/pf2_istruzioni_2026_agg-13-05-2026",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "riduzioni": {
+          "valore": {
+            "riduzione35": {
+              "moltiplicatore": 0.65,
+              "riduceAliquotaAggiuntiva": true
+            },
+            "riduzione50": {
+              "moltiplicatore": 0.5,
+              "riduceAliquotaAggiuntiva": false
+            }
+          },
+          "fonte": {
+            "riferimento": "Riduzione 35%: L. 190/2014 art. 1 c. 77 (fissi+eccedenza, maternità piena; la 0,48 non è esclusa dal testo: inclusione letterale, da confermare su tariffazione reale). Riduzione 50%: L. 207/2024 art. 1 c. 186 + circ. INPS 83 del 24/04/2025 §3 (solo IVS: maternità e 0,48 SEMPRE piene)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207",
+            "verificatoIl": "2026-08-23",
+            "daVerificare": true
+          }
+        }
+      },
+      "imposta": {
+        "startup": {
+          "valore": 0.05,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 64–65 (imposta sostitutiva 15%, 5% startup per 5 anni)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "ordinaria": {
+          "valore": 0.15,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 64–65 (imposta sostitutiva 15%, 5% startup per 5 anni)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "anniStartup": {
+          "valore": 5,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 64–65 (imposta sostitutiva 15%, 5% startup per 5 anni)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        }
+      },
+      "irpef": {
+        "scaglioni": {
+          "valore": [
+            {
+              "finoACents": 2800000,
+              "aliquota": 0.23
+            },
+            {
+              "finoACents": 5000000,
+              "aliquota": 0.33
+            },
+            {
+              "finoACents": null,
+              "aliquota": 0.43
+            }
+          ],
+          "fonte": {
+            "riferimento": "Art. 11, c. 1, TUIR vigente: 23% fino a 28.000, 33% da 28.000 a 50.000 (L. 199/2025, art. 1, c. 3; in vigore 1/1/2026 ex art. 21), 43% oltre. Riscontro prassi: scheda AdE agg. 13/01/2026 (imposta a 50.000 = 13.700)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art11!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "detrazioneLavoroAutonomo": {
+          "valore": {
+            "bassa": {
+              "finoACents": 550000,
+              "importoCents": 126500
+            },
+            "media": {
+              "finoACents": 2800000,
+              "baseCents": 50000,
+              "extraCents": 76500,
+              "divisoreCents": 2250000
+            },
+            "alta": {
+              "finoACents": 5000000,
+              "baseCents": 50000,
+              "divisoreCents": 2200000
+            },
+            "bonus": {
+              "oltreCents": 1100000,
+              "finoACents": 1700000,
+              "importoCents": 5000
+            }
+          },
+          "fonte": {
+            "riferimento": "Art. 13, c. 5, 5-ter e 6, TUIR vigente (riscrittura L. 234/2021, invariata 2025/2026): 1.265 fino a 5.500; 500 + 765 × (28.000 − RC)/22.500 fino a 28.000; 500 × (50.000 − RC)/22.000 fino a 50.000; +50 tra 11.000 e 17.000; rapporti alle prime 4 cifre decimali (troncamento). RC al netto dell’abitazione principale: non modellata, l’app non ha redditi immobiliari",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art13!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "oneriDetraibili": {
+          "valore": {
+            "aliquota": 0.19,
+            "tetto": {
+              "daCents": 7500000,
+              "sogliaBase100kCents": 10000000,
+              "importoBaseCents": {
+                "fino100k": 1400000,
+                "oltre100k": 800000
+              },
+              "coefficientiFigli": {
+                "nessuno": 0.5,
+                "uno": 0.7,
+                "due": 0.85,
+                "oltreODisabilita": 1
+              }
+            },
+            "degressione": {
+              "daCents": 12000000,
+              "aCents": 24000000
+            },
+            "taglioAltiRedditi": {
+              "sogliaCents": 20000000,
+              "importoCents": 44000
+            }
+          },
+          "fonte": {
+            "riferimento": "Oneri 19% SOGGETTI ai meccanismi (sanitarie e interessi mutui ne sono fuori per legge, quindi fuori dall’input): tetto di spesa oltre 75.000 = 14.000/8.000 × coefficiente figli (art. 16-ter, c. 1-3, TUIR, dal 2025; circ. AdE 6/E/2025: è un cap sulle SPESE); degressione × (240.000 − RC)/120.000 tra 120.000 e 240.000 (art. 15, c. 3-bis); taglio −440 oltre 200.000 sul monte oneri 19%, clamp a zero = interpretazione dichiarata (art. 16-ter, c. 5-bis, inserito da L. 199/2025, art. 1, c. 4)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art16ter!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "addizionali": {
+          "valore": {
+            "regionaleBase": 0.0123,
+            "regionaleMax": 0.0333,
+            "comunaleMax": 0.009,
+            "minimoIrpefDovutaCents": 1000
+          },
+          "fonte": {
+            "riferimento": "Regionale: aliquota di base 1,23%, maggiorazione max 2,1 punti (D.Lgs. 68/2011, art. 6, c. 1); comunale: max 0,8 punti + 0,4 Roma Capitale (D.Lgs. 360/1998, art. 1, c. 3; DL 78/2010, art. 14, c. 14, lett. b). Dovute solo se l’IRPEF netta supera 10 € (AdE, Allegato C circ. di liquidazione 730/2026: «un importo maggiore di euro 10»). Regionale dal dataset ufficiale MEF per residenza (params/addizionali-regionali) o aliquota in input; comunale in input",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-05-06;68~art6!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        }
+      },
+      "dipendente": {
+        "detrazione": {
+          "valore": {
+            "bassa": {
+              "finoACents": 1500000,
+              "importoCents": 195500,
+              "minimoCents": 69000
+            },
+            "media": {
+              "finoACents": 2800000,
+              "baseCents": 191000,
+              "extraCents": 119000,
+              "divisoreCents": 1300000
+            },
+            "alta": {
+              "finoACents": 5000000,
+              "baseCents": 191000,
+              "divisoreCents": 2200000
+            },
+            "bonus": {
+              "oltreCents": 2500000,
+              "finoACents": 3500000,
+              "importoCents": 6500
+            }
+          },
+          "fonte": {
+            "riferimento": "Art. 13, c. 1 e 1.1, TUIR vigente (1.955 a regime da L. 207/2024, art. 1, c. 2, lett. b): 1.955 fino a 15.000 (minimo 690, non rapportato); 1.910 + 1.190 × (28.000 − RC)/13.000 fino a 28.000; 1.910 × (50.000 − RC)/22.000 fino a 50.000; +65 tra 25.000 e 35.000 (per intero); rapporti alle prime 4 cifre decimali (c. 6). Confronto ad anno intero",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917~art13!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "sommaIntegrativa": {
+          "valore": {
+            "sogliaRedditoCents": 2000000,
+            "fasce": [
+              {
+                "finoACents": 850000,
+                "percentuale": 0.071
+              },
+              {
+                "finoACents": 1500000,
+                "percentuale": 0.053
+              },
+              {
+                "finoACents": null,
+                "percentuale": 0.048
+              }
+            ]
+          },
+          "fonte": {
+            "riferimento": "L. 207/2024, art. 1, c. 4-5: somma che NON concorre al reddito, per reddito complessivo ≤ 20.000, pari al 7,1/5,3/4,8% del reddito di lavoro dipendente (fasce 8.500/15.000; percentuale individuata sul reddito annualizzato — qui anno intero); circ. AdE 4/E/2025, §1.1",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "ulterioreDetrazione": {
+          "valore": {
+            "oltreCents": 2000000,
+            "pienaFinoACents": 3200000,
+            "aCents": 4000000,
+            "importoCents": 100000
+          },
+          "fonte": {
+            "riferimento": "L. 207/2024, art. 1, c. 6: ulteriore detrazione di 1.000 € per RC 20.000-32.000, poi 1.000 × (40.000 − RC)/8.000 fino a 40.000 (precisione piena: nessuna regola di troncamento); spetta nei limiti della capienza dell’imposta lorda (circ. AdE 4/E/2025, p. 16)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "trattamentoIntegrativo": {
+          "valore": {
+            "importoCents": 120000,
+            "sogliaRedditoCents": 1500000,
+            "correttivoCents": 7500
+          },
+          "fonte": {
+            "riferimento": "DL 3/2020, art. 1 vigente (correttivo −75 da L. 207/2024, art. 1, c. 3): 1.200 € esenti se RC ≤ 15.000 e imposta lorda sui redditi di lavoro > detrazione art. 13, c. 1, − 75 €; la fascia 15.000-28.000 (legata a oneri ante-2022) NON è modellata, dichiarato",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-02-05;3~art1!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "contributi": {
+          "valore": {
+            "ivs": 0.0919,
+            "aliquotaAggiuntivaOltreFascia": 0.01,
+            "fisTotale": {
+              "finoA5": 0.005,
+              "oltre5": 0.008
+            },
+            "quotaFisLavoratore": {
+              "numeratore": 1,
+              "denominatore": 3
+            },
+            "cigsLavoratore": 0.003
+          },
+          "fonte": {
+            "riferimento": "IVS FPLD 9,19% a carico lavoratore (8,89 + 0,30 ex L. 296/2006, c. 769); +1% oltre la prima fascia pensionabile (DL 384/1992, art. 3-ter; la fascia è previdenzaIvs.fasciaPiuUno); massimale post-1995 sui soli contributi pensionistici = previdenza.massimale (L. 335/1995, c. 18, unico); FIS 0,50/0,80% con UN TERZO a carico lavoratore (D.Lgs. 148/2015, art. 29, c. 8; riparto 2/3-1/3 ex circ. INPS 176/2016 e 18/2022); CIGS 0,30% lavoratore sopra i 15 dipendenti, dal 2022 anche nel commercio (D.Lgs. 148/2015, artt. 20 e 23)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;148~art23!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "tfr": {
+          "valore": {
+            "frazione": {
+              "numeratore": 2,
+              "denominatore": 27
+            },
+            "contributoDetratto": 0.005
+          },
+          "fonte": {
+            "riferimento": "Art. 2120 c.c.: quota annua = retribuzione utile / 13,5 (= × 2/27); L. 297/1982, art. 3: 0,50% detratto dalla quota. Accantonamento lordo DIFFERITO, mai nel netto annuo: all’uscita tassazione separata (artt. 17 e 19 TUIR), rivalutazioni a sostitutiva 17% (D.Lgs. 47/2000, art. 11)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;297~art3!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "fondoPensione": {
+          "valore": {
+            "lavoratore": 0.0055,
+            "datore": 0.0155,
+            "plafondCents": 530000
+          },
+          "fonte": {
+            "riferimento": "CCNL Terziario Confcommercio, art. 107 (invariato dal rinnovo 22/03/2024): lavoratore min 0,55% e datore 1,55% della retribuzione utile TFR (qui ≈ RAL); deducibilità entro il plafond ex art. 8, c. 4, D.Lgs. 252/2005 — 5.300 € dal 2026 (L. 199/2025, art. 1, c. 201); il TFR conferito NON consuma il plafond",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252~art8!vig=",
+            "verificatoIl": "2026-08-23"
+          }
+        }
+      },
+      "acconti": {
+        "quotaImposta": {
+          "valore": 1,
+          "fonte": {
+            "riferimento": "Acconto imposta sostitutiva = 100% anno precedente (metodo storico, prassi AdE)",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "quotaContributi": {
+          "valore": 0.8,
+          "fonte": {
+            "riferimento": "Acconto Gestione Separata = 80%: istruzioni Redditi PF 2026, Fascicolo 2, Appendice «INPS - Modalità di calcolo degli acconti», p.to 2, pag. 62 (aliquote dell’anno corrente sull’80% del reddito dell’anno precedente, col massimale corrente); il motore usa l’80% del dovuto dell’anno prima: identico finché aliquota e massimale non cambiano gli importi (equivalenza in docs/regole-fiscali.md)",
+            "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/pf2_istruzioni_2026_agg-13-05-2026",
+            "verificatoIl": "2026-08-23"
+          }
+        },
+        "ripartizione": {
+          "valore": [
+            0.5,
+            0.5
+          ],
+          "fonte": {
+            "riferimento": "art. 58 DL 124/2019 — due rate uguali per soggetti ISA e forfettari",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "minimoAcconto": {
+          "valore": 5165,
+          "fonte": {
+            "riferimento": "Nessun acconto se imposta anno precedente ≤ 51,65 € (regole acconti IRPEF estese alla sostitutiva)",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "sogliaRataUnica": {
+          "valore": 20600,
+          "fonte": {
+            "riferimento": "Due rate salvo che la prima non superi 103 € (istruzioni Redditi PF 2026, fasc. 1, regola generale degli acconti, rigo LC2); con la ripartizione 50/50 di ISA e forfettari (art. 58 DL 124/2019, ris. AdE 93/E del 12/11/2019) vuol dire acconto ≤ 206 €",
+            "url": "https://www.agenziaentrate.gov.it/portale/documents/d/guest/pf1_istruzioni_2026_agg-28-05-2026",
+            "verificatoIl": "2026-10-02"
+          }
+        },
+        "soglieApplicabiliAContributi": {
+          "valore": false,
+          "fonte": {
+            "riferimento": "Applicabilità delle soglie minime agli acconti GS non confermata da fonte primaria: default prudente = non applicate",
+            "verificatoIl": "2026-08-22",
+            "daVerificare": true
+          }
+        },
+        "maggiorazioneDifferimento": {
+          "valore": 0.008,
+          "fonte": {
+            "riferimento": "art. 6 DL 89/2026 (0,80% nel 2026; regola a regime: art. 1-sexies DL 63/2026, conv. L. 113/2026)",
+            "verificatoIl": "2026-08-22",
+            "daVerificare": true
+          }
+        },
+        "scadenze": {
+          "valore": {
+            "saldoEPrimaRata": "07-20",
+            "secondaRata": "11-30"
+          },
+          "fonte": {
+            "riferimento": "Saldo + 1ª rata al 20/7 (differimento strutturale ISA/forfettari, per il 2026: art. 6 DL 89/2026); 2ª rata 30/11",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "codiciTributo": {
+          "valore": {
+            "primoAcconto": "1790",
+            "secondoAcconto": "1791",
+            "saldo": "1792"
+          },
+          "fonte": {
+            "riferimento": "Codici tributo AdE per l’imposta sostitutiva forfettari (1791 anche per l’unica soluzione)",
+            "verificatoIl": "2026-08-22"
+          }
+        },
+        "causaliInps": {
+          "valore": {
+            "piena": "PXX",
+            "ridotta": "P10"
+          },
+          "fonte": {
+            "riferimento": "Causali contributo F24 Gestione Separata professionisti: PXX (aliquota piena), P10 (pensionati/altra copertura)",
+            "verificatoIl": "2026-08-22"
+          }
+        }
+      },
+      "soglie": {
+        "uscitaAnnoSuccessivo": {
+          "valore": 8500000,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 54 e 71 (soglie modificate dalla L. 197/2022)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "uscitaImmediata": {
+          "valore": 10000000,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 co. 54 e 71 (soglie modificate dalla L. 197/2022)",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "causaOstativaDipendente": {
+          "valore": 3500000,
+          "fonte": {
+            "riferimento": "L. 190/2014, art. 1 c. 57 lett. d-ter (redditi da lavoro dipendente e assimilati dell'anno precedente oltre 30.000 €); 35.000 € per il 2025 e il 2026: L. 207/2024, art. 1 c. 12, come modificato dalla L. 199/2025, art. 1 c. 27",
+            "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+            "verificatoIl": "2026-10-02"
+          }
+        }
+      },
+      "bollo": {
+        "soglia": {
+          "valore": 7747,
+          "fonte": {
+            "riferimento": "DPR 642/1972, tariffa art. 13",
+            "verificatoIl": "2026-08-15"
+          }
+        },
+        "importo": {
+          "valore": 200,
+          "fonte": {
+            "riferimento": "DPR 642/1972, tariffa art. 13",
+            "verificatoIl": "2026-08-15"
+          }
+        }
+      }
+    }
+  }
+}
